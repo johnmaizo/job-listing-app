@@ -25,7 +25,7 @@ This is a solution to the [Job listings with filtering on Frontend Mentor](https
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Job listings with filtering using React, TypeScript, Tailwind CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/social-media-dashboard-using-react-js-tailwind-css-tf4ZeEOl6f)
+- Solution URL: [Job listings with filtering using React, TypeScript, Tailwind CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/job-listings-using-react-typescript-tailwind-css-2nQVrfZw32)
 - Live Site URL: [https://job-listing-app-johnmaizo.netlify.app/](https://job-listing-app-johnmaizo.netlify.app/)
 
 <br>
